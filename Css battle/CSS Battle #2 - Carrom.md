@@ -23,7 +23,7 @@
   height: 100px;
   padding: 5px;
   border: 1px solid blue;
-  background-color: yellow;    
+  background-color: yellow; }  
   ```
     
   </td>
@@ -70,5 +70,5 @@ https://www.tablesgenerator.com/markdown_tables
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDk1NjQzNDBdfQ==
+eyJoaXN0b3J5IjpbMTA1OTY2NDYxN119
 -->
