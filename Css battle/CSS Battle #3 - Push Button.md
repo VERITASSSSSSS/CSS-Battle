@@ -30,7 +30,9 @@
    border-radius: 0 0 50px 50px;
   }
   #a{top:150px;left:50px;}
-  #b{transform:rotate(180deg);top:50px;left:150px;}
+  #b{transform:rotate(180deg);
+	  top:50px;
+	  left:150px;}
   #c{top:150px;left:250px;}
   
 </style>
@@ -163,9 +165,9 @@ box-shadow: [horizontal offset] [vertical offset]
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNzIyMjIwNiwtMTEzMzk2OTMxMywtMj
-A1MTEwMjY4LC0yMDUxMTAyNjgsMTkyMzI4MDc2Niw0MTA1NjA2
-MiwtOTQ2MDM0NzE0LC0yODk2NDAzNDksLTExMjE3MDgxMywxMz
-Y1NDU0NDM5LDEzMDUyMzM1ODMsLTEwNjUwMjY2MTQsLTEyMzEz
-ODYxMTldfQ==
+eyJoaXN0b3J5IjpbLTE5ODIwMDA3MDYsMTQwNzIyMjIwNiwtMT
+EzMzk2OTMxMywtMjA1MTEwMjY4LC0yMDUxMTAyNjgsMTkyMzI4
+MDc2Niw0MTA1NjA2MiwtOTQ2MDM0NzE0LC0yODk2NDAzNDksLT
+ExMjE3MDgxMywxMzY1NDU0NDM5LDEzMDUyMzM1ODMsLTEwNjUw
+MjY2MTQsLTEyMzEzODYxMTldfQ==
 -->
