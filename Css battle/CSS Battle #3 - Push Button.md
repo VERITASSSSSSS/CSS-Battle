@@ -13,6 +13,7 @@
 
 [absolute: position; video](https://www.youtube.com/watch?v=3PDQDRJq5Ls)
 
+**Code**
 ```css
 <div id="a"></div>
 <div id="b"></div>
@@ -162,8 +163,9 @@ box-shadow: [horizontal offset] [vertical offset]
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzM5NjkzMTMsLTIwNTExMDI2OCwtMj
-A1MTEwMjY4LDE5MjMyODA3NjYsNDEwNTYwNjIsLTk0NjAzNDcx
-NCwtMjg5NjQwMzQ5LC0xMTIxNzA4MTMsMTM2NTQ1NDQzOSwxMz
-A1MjMzNTgzLC0xMDY1MDI2NjE0LC0xMjMxMzg2MTE5XX0=
+eyJoaXN0b3J5IjpbMTQwNzIyMjIwNiwtMTEzMzk2OTMxMywtMj
+A1MTEwMjY4LC0yMDUxMTAyNjgsMTkyMzI4MDc2Niw0MTA1NjA2
+MiwtOTQ2MDM0NzE0LC0yODk2NDAzNDksLTExMjE3MDgxMywxMz
+Y1NDU0NDM5LDEzMDUyMzM1ODMsLTEwNjUwMjY2MTQsLTEyMzEz
+ODYxMTldfQ==
 -->
