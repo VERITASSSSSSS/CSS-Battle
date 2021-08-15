@@ -71,6 +71,11 @@
 -   `fixed`
 -   `absolute`
 -   `sticky`
+|Div|  |
+|--|--|
+|  |  |
+
+
 
 ```html
 <div id="a"></div>
@@ -93,5 +98,5 @@ https://www.tablesgenerator.com/markdown_tables
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NTg3MDM4LDEwNTk2NjQ2MTddfQ==
+eyJoaXN0b3J5IjpbMTI1MDM2ODA3NywxMDU5NjY0NjE3XX0=
 -->
