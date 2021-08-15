@@ -59,7 +59,7 @@ after
 # 2. Border
 
 ## Concept
-
+<a href="https://gifyu.com/image/yAtg"><img src="https://s6.gifyu.com/images/Presentation14129c5ad20c0fa36.gif" alt="Presentation14129c5ad20c0fa36.gif" border="0" /></a>
 
 *What is `:before`?*
 The `::before` and `::after` pseudo-elements in CSS allows you to insert content onto a page without it needing to be in the HTML.
@@ -117,6 +117,6 @@ after
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNjgwMDQ3NywtMTA2NTAyNjYxNCwtMT
-IzMTM4NjExOV19
+eyJoaXN0b3J5IjpbNzM0MjQ5MTg3LC0xMDY1MDI2NjE0LC0xMj
+MxMzg2MTE5XX0=
 -->
