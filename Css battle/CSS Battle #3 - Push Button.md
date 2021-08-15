@@ -2,7 +2,8 @@
 
 *What is `absolute: position`?*
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/VQGBdKN/Screenshot-8.png" alt="Screenshot-8" border="0" ></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/VQGBdKN/Screenshot-8.png" alt="Screenshot-8" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/BgZPVYJ/Screenshot-7.png" alt="Screenshot-7" border="0" height: "200"; width:"200"></a>
 
 [absolute: position; video](https://www.youtube.com/watch?v=3PDQDRJq5Ls)
 
@@ -155,7 +156,7 @@ box-shadow: [horizontal offset] [vertical offset]
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MjkzMjIxOSwtMjA1MTEwMjY4LC0yMD
+eyJoaXN0b3J5IjpbLTE3MzcxODYwOSwtMjA1MTEwMjY4LC0yMD
 UxMTAyNjgsMTkyMzI4MDc2Niw0MTA1NjA2MiwtOTQ2MDM0NzE0
 LC0yODk2NDAzNDksLTExMjE3MDgxMywxMzY1NDU0NDM5LDEzMD
 UyMzM1ODMsLTEwNjUwMjY2MTQsLTEyMzEzODYxMTldfQ==
