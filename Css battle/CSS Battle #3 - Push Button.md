@@ -146,6 +146,7 @@ after
 
 # 3. Box Shadow
 
+**Style**
 ```css
 box-shadow: [horizontal offset] [vertical offset] 
 [blur radius] [optional spread radius] [color];
@@ -183,7 +184,7 @@ box-shadow: [horizontal offset] [vertical offset]
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4OTY0MDM0OSwtMTEyMTcwODEzLDEzNj
-U0NTQ0MzksMTMwNTIzMzU4MywtMTA2NTAyNjYxNCwtMTIzMTM4
-NjExOV19
+eyJoaXN0b3J5IjpbLTk0NjAzNDcxNCwtMjg5NjQwMzQ5LC0xMT
+IxNzA4MTMsMTM2NTQ1NDQzOSwxMzA1MjMzNTgzLC0xMDY1MDI2
+NjE0LC0xMjMxMzg2MTE5XX0=
 -->
