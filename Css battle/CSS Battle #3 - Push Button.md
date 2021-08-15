@@ -2,7 +2,7 @@
 
 *What is `absolute: position`?*
 
-    enter code here
+[absolute: position; video](https://www.youtube.com/watch?v=3PDQDRJq5Ls)
 
 ```css
 <div id="a"></div>
@@ -153,7 +153,7 @@ box-shadow: [horizontal offset] [vertical offset]
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMTUyODY0MSwxOTIzMjgwNzY2LDQxMD
+eyJoaXN0b3J5IjpbLTIwNTExMDI2OCwxOTIzMjgwNzY2LDQxMD
 U2MDYyLC05NDYwMzQ3MTQsLTI4OTY0MDM0OSwtMTEyMTcwODEz
 LDEzNjU0NTQ0MzksMTMwNTIzMzU4MywtMTA2NTAyNjYxNCwtMT
 IzMTM4NjExOV19
