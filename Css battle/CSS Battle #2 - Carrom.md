@@ -71,9 +71,13 @@
 -   `fixed`
 -   `absolute`
 -   `sticky`
-|Div|  |
-|--|--|
-|  |  |
+|Name|Idea| Picture |
+|--|--|--|
+| position:static |  |  |
+| position: relative; |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
 
 
@@ -98,5 +102,5 @@ https://www.tablesgenerator.com/markdown_tables
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MDM2ODA3NywxMDU5NjY0NjE3XX0=
+eyJoaXN0b3J5IjpbMTIzOTU4NTQ3NywxMDU5NjY0NjE3XX0=
 -->
