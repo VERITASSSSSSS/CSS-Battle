@@ -71,7 +71,7 @@
 -   `fixed`
 -   `absolute`
 -   `sticky`
-| Name                | Idea                                                                                              | Picture |
+| Name                | Idea     |  Picture |                                                  
 |---------------------|---------------------------------------------------------------------------------------------------|---------|
 | position: static;   | positioned according to the normal flow of the page                                               |         |
 | position: relative  | is positioned relative to its normal position.                                                    |         |
@@ -79,7 +79,7 @@
 | position: absolute; | positioned relative to the nearest positioned ancestor                                            |         |
 | position: sticky;   | positioned relative until a given offset position is met in the viewport                          |         |
 
-
+[W3School Positioning](https://www.w3schools.com/css/css_positioning.asp)
 ```html
 <div id="a"></div>
 <div id="b"></div>
@@ -101,6 +101,6 @@ https://www.tablesgenerator.com/markdown_tables
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg5NDI3ODcxLDg4MTc1ODE1NywxMDU5Nj
+eyJoaXN0b3J5IjpbODEwMzU5MjQ1LDg4MTc1ODE1NywxMDU5Nj
 Y0NjE3XX0=
 -->
