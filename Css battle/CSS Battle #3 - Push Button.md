@@ -68,7 +68,7 @@ after
 - 
 [Transform: translate](https://stackoverflow.com/questions/46184458/transform-translate-50-50/46184660)
 
-
+### Code
 ```html
 <div id="rect">
   <div id="outer">
@@ -110,8 +110,23 @@ after
 
 ```
 
+### Break it down
+
+```css
+  #rect{
+   width: 300px;height:150px;
+   margin:75px 50px; 
+   background: #243D83;
+   overflow: hidden;
+   position: relative;
+  }
+```
+
+> adding `position: relative` to `rect` as the immediate parent of `outer` makes the circle follow the center of the rectangle.
+>
 > Written with [StackEdit](https://stackedit.io/).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzY3Nzk4MzgsMTMwNTIzMzU4MywtMT
-A2NTAyNjYxNCwtMTIzMTM4NjExOV19
+eyJoaXN0b3J5IjpbLTk3NTI0MTA3NywxMzA1MjMzNTgzLC0xMD
+Y1MDI2NjE0LC0xMjMxMzg2MTE5XX0=
 -->
