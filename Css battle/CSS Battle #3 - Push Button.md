@@ -61,8 +61,10 @@ after
 ## Concept
 [![Presentation14129c5ad20c0fa36.gif](https://s6.gifyu.com/images/Presentation14129c5ad20c0fa36.gif)](https://gifyu.com/image/yAtg)
 
-*What is `:before`?*
-The `::before` and `::after` pseudo-elements in CSS allows you to insert content onto a page without it needing to be in the HTML.
+*What is `transform: translate`?*
+- Use it to center
+-   move me leftwards by 50% of my width, along the x-axis, and
+-   move me upwards by 50% of my height, along the y-axis
 ```css
 div::before { content:  "before";  }  
 div::after  {  content:  "after";  }
@@ -113,10 +115,11 @@ after
   }
   
 </style>
+
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNTIzMzU4MywtMTA2NTAyNjYxNCwtMT
-IzMTM4NjExOV19
+eyJoaXN0b3J5IjpbMjA2OTE4OTU1LDEzMDUyMzM1ODMsLTEwNj
+UwMjY2MTQsLTEyMzEzODYxMTldfQ==
 -->
