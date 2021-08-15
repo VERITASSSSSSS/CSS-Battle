@@ -2,7 +2,15 @@
 
 *What is `:before`?*
 The `::before` and `::after` pseudo-elements in CSS allows you to insert content onto a page without it needing to be in the HTML.
-
+```css
+div::before { content:  "before";  }  
+div::after  {  content:  "after";  }
+```
+```html
+<div> before 
+<!-- Rest of stuff inside the div --> 
+after </div>
+```
 [:after / :before](https://css-tricks.com/almanac/selectors/a/after-and-before/)
 ```html
 <div id="c"></div> <!--Right piece-->
@@ -48,5 +56,5 @@ The `::before` and `::after` pseudo-elements in CSS allows you to insert content
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDk3NDA4NDRdfQ==
+eyJoaXN0b3J5IjpbMTMwMTM1Nzk4OF19
 -->
