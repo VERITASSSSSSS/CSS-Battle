@@ -2,6 +2,8 @@
 
 *What is `absolute: position`?*
 
+    enter code here
+
 ```css
 <div id="a"></div>
 <div id="b"></div>
@@ -151,8 +153,8 @@ box-shadow: [horizontal offset] [vertical offset]
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMzI4MDc2Niw0MTA1NjA2MiwtOTQ2MD
-M0NzE0LC0yODk2NDAzNDksLTExMjE3MDgxMywxMzY1NDU0NDM5
-LDEzMDUyMzM1ODMsLTEwNjUwMjY2MTQsLTEyMzEzODYxMTldfQ
-==
+eyJoaXN0b3J5IjpbLTgwMTUyODY0MSwxOTIzMjgwNzY2LDQxMD
+U2MDYyLC05NDYwMzQ3MTQsLTI4OTY0MDM0OSwtMTEyMTcwODEz
+LDEzNjU0NTQ0MzksMTMwNTIzMzU4MywtMTA2NTAyNjYxNCwtMT
+IzMTM4NjExOV19
 -->
