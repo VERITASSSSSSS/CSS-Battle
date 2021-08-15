@@ -142,9 +142,12 @@ after
 	    
 - set the margin property to `auto` to **horizontally** center the element within its container.
 
+[Centering in CSS](https://css-tricks.com/centering-css-complete-guide/)
+
+
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NTQ1NDQzOSwxMzA1MjMzNTgzLC0xMD
-Y1MDI2NjE0LC0xMjMxMzg2MTE5XX0=
+eyJoaXN0b3J5IjpbLTExMjE3MDgxMywxMzY1NDU0NDM5LDEzMD
+UyMzM1ODMsLTEwNjUwMjY2MTQsLTEyMzEzODYxMTldfQ==
 -->
