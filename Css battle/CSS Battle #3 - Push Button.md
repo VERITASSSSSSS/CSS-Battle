@@ -150,10 +150,41 @@ after
 box-shadow: [horizontal offset] [vertical offset] 
 [blur radius] [optional spread radius] [color];
 ```
+```css
+<div id="rect">
+  <div id="circle">
+  </div>
+</div>
+
+<style>
+  body{
+    background: #6592CF}
+  
+  #rect{
+   width: 300px;height:150px;
+   margin:75px 41px; 
+   background: #243D83;
+   display: flex; 
+   justify-content: center;
+    align-items: center;
+  }
+  
+  #circle{
+    width: 50px;height:50px;
+    border-radius: 25px;
+    margin: 50px auto;
+    box-shadow: 0 0 0 50px #243D83,0 0 0 100px #6592CF;
+    background:#EEB850;
+  }
+  
+</style>
+
+```
+
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NjE4NTU1LC0xMTIxNzA4MTMsMTM2NT
-Q1NDQzOSwxMzA1MjMzNTgzLC0xMDY1MDI2NjE0LC0xMjMxMzg2
-MTE5XX0=
+eyJoaXN0b3J5IjpbMTY4NjA2MjAwNSwtMTEyMTcwODEzLDEzNj
+U0NTQ0MzksMTMwNTIzMzU4MywtMTA2NTAyNjYxNCwtMTIzMTM4
+NjExOV19
 -->
