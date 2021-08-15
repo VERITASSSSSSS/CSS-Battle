@@ -89,8 +89,7 @@
 <style>
   body{margin:0;  display: inline-block; background:#62374e}
   div{width:50px;height:50px;background: #fdc57b;position:fixed;}
-  #a {top:50; left:50;}
-  #b {top:50; left:300;}
+  #a {top:50; left:50;} *Here Uses Top Left*
   #c {top:200; left:50;}
   #d {top:200; left:300;}
 </style>
@@ -101,6 +100,6 @@ https://www.tablesgenerator.com/markdown_tables
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODEwMzU5MjQ1LDg4MTc1ODE1NywxMDU5Nj
-Y0NjE3XX0=
+eyJoaXN0b3J5IjpbLTE1Mzc5NTQwMjAsODEwMzU5MjQ1LDg4MT
+c1ODE1NywxMDU5NjY0NjE3XX0=
 -->
