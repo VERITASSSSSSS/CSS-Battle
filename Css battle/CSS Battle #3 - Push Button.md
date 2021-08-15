@@ -178,13 +178,12 @@ box-shadow: [horizontal offset] [vertical offset]
   }
   
 </style>
-
 ```
 
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NjA2MjAwNSwtMTEyMTcwODEzLDEzNj
+eyJoaXN0b3J5IjpbLTI4OTY0MDM0OSwtMTEyMTcwODEzLDEzNj
 U0NTQ0MzksMTMwNTIzMzU4MywtMTA2NTAyNjYxNCwtMTIzMTM4
 NjExOV19
 -->
