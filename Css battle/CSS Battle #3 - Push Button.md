@@ -56,7 +56,10 @@ after
 </style>
 ```
 
-# 2. Slow and Stupid
+# 2. Border
+
+## Concept
+
 
 *What is `:before`?*
 The `::before` and `::after` pseudo-elements in CSS allows you to insert content onto a page without it needing to be in the HTML.
@@ -116,5 +119,6 @@ after
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzEzODYxMTldfQ==
+eyJoaXN0b3J5IjpbLTEwNjUwMjY2MTQsLTEyMzEzODYxMTldfQ
+==
 -->
