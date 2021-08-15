@@ -3,7 +3,7 @@
 *What is `absolute: position`?*
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/VQGBdKN/Screenshot-8.png" alt="Screenshot-8" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/BgZPVYJ/Screenshot-7.png" alt="Screenshot-7" border="0" height: "200"; width:"200"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/BgZPVYJ/Screenshot-7.png" alt="Screenshot-7" border="0" height="200" width="250"></a>
 
 [absolute: position; video](https://www.youtube.com/watch?v=3PDQDRJq5Ls)
 
@@ -156,8 +156,8 @@ box-shadow: [horizontal offset] [vertical offset]
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzcxODYwOSwtMjA1MTEwMjY4LC0yMD
-UxMTAyNjgsMTkyMzI4MDc2Niw0MTA1NjA2MiwtOTQ2MDM0NzE0
-LC0yODk2NDAzNDksLTExMjE3MDgxMywxMzY1NDU0NDM5LDEzMD
-UyMzM1ODMsLTEwNjUwMjY2MTQsLTEyMzEzODYxMTldfQ==
+eyJoaXN0b3J5IjpbMjc5NzI4ODQ5LC0yMDUxMTAyNjgsLTIwNT
+ExMDI2OCwxOTIzMjgwNzY2LDQxMDU2MDYyLC05NDYwMzQ3MTQs
+LTI4OTY0MDM0OSwtMTEyMTcwODEzLDEzNjU0NTQ0MzksMTMwNT
+IzMzU4MywtMTA2NTAyNjYxNCwtMTIzMTM4NjExOV19
 -->
