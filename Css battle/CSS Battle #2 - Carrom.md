@@ -73,8 +73,8 @@
 -   `sticky`
 |Name|Idea| Picture |
 |--|--|--|
-| position:static; |  |  |
-| position: relative; |  |  |
+| position:static; | Positioned according to page  |  |
+| position: relative; | positioned relative to its normal position. |  |
 | position: fixed;  |  |  |
 | position: absolute;  |  |  |
 | position: sticky;  |  |  |
@@ -102,5 +102,5 @@ https://www.tablesgenerator.com/markdown_tables
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjMyNjA4NDYsMTA1OTY2NDYxN119
+eyJoaXN0b3J5IjpbODgxNzU4MTU3LDEwNTk2NjQ2MTddfQ==
 -->
