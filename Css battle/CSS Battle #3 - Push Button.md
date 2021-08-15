@@ -122,11 +122,19 @@ after
   }
 ```
 
-> adding `position: relative` to `rect` as the immediate parent of `outer` makes the circle follow the center of the rectangle.
->
+> Adding `position: relative` to `rect` as the immediate parent of `outer` makes the circle follow the center of the rectangle.
+
+>`overflow: hidden` which in this case doesn't seem to have an effect because the border of the outer circle has the same color as the background.
+
+>If the  `margin`  property has two values:
+
+-   **margin: 25px 50px;**
+    -   top and bottom margins are 25px
+    -   right and left margins are 50px
+
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NTI0MTA3NywxMzA1MjMzNTgzLC0xMD
+eyJoaXN0b3J5IjpbLTQyMzYyNTE2MSwxMzA1MjMzNTgzLC0xMD
 Y1MDI2NjE0LC0xMjMxMzg2MTE5XX0=
 -->
