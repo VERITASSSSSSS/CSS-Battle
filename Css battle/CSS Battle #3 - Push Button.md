@@ -27,7 +27,6 @@ The `::before` and `::after` pseudo-elements in CSS allows you to insert content
 # 2. Border
 
 ## Concept
-[![Presentation14129c5ad20c0fa36.gif](https://s6.gifyu.com/images/Presentation14129c5ad20c0fa36.gif)](https://gifyu.com/image/yAtg)
 
 *What is `transform: translate`?*
 - Use it to center
@@ -152,7 +151,7 @@ box-shadow: [horizontal offset] [vertical offset]
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDQzMzMwMCwtOTQ2MDM0NzE0LC0yOD
-k2NDAzNDksLTExMjE3MDgxMywxMzY1NDU0NDM5LDEzMDUyMzM1
-ODMsLTEwNjUwMjY2MTQsLTEyMzEzODYxMTldfQ==
+eyJoaXN0b3J5IjpbNDEwNTYwNjIsLTk0NjAzNDcxNCwtMjg5Nj
+QwMzQ5LC0xMTIxNzA4MTMsMTM2NTQ1NDQzOSwxMzA1MjMzNTgz
+LC0xMDY1MDI2NjE0LC0xMjMxMzg2MTE5XX0=
 -->
