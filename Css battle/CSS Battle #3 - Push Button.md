@@ -144,12 +144,16 @@ after
 
 [Centering in CSS](https://css-tricks.com/centering-css-complete-guide/)
 
-# 
+# 3. Box Shadow
 
+```css
+box-shadow: [horizontal offset] [vertical offset] 
+[blur radius] [optional spread radius] [color];
+```
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDU1Nzc0MjAsLTExMjE3MDgxMywxMz
-Y1NDU0NDM5LDEzMDUyMzM1ODMsLTEwNjUwMjY2MTQsLTEyMzEz
-ODYxMTldfQ==
+eyJoaXN0b3J5IjpbMTM4NjE4NTU1LC0xMTIxNzA4MTMsMTM2NT
+Q1NDQzOSwxMzA1MjMzNTgzLC0xMDY1MDI2NjE0LC0xMjMxMzg2
+MTE5XX0=
 -->
