@@ -1,16 +1,15 @@
 # 1. Absolute Position
 
 *What is `absolute: position`?*
+
 <div class="row">  
 <div class="column">  
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/VQGBdKN/Screenshot-8.png" alt="Screenshot-8" border="0"></a>
 </div>  
 <div class="column">  
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/BgZPVYJ/Screenshot-7.png" alt="Screenshot-7" border="0" height="200" width="250"></a>
-
 </div>  
 </div>
-
 
 [absolute: position; video](https://www.youtube.com/watch?v=3PDQDRJq5Ls)
 
@@ -163,8 +162,8 @@ box-shadow: [horizontal offset] [vertical offset]
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MTQzNjcyMSwtMjA1MTEwMjY4LC0yMD
-UxMTAyNjgsMTkyMzI4MDc2Niw0MTA1NjA2MiwtOTQ2MDM0NzE0
-LC0yODk2NDAzNDksLTExMjE3MDgxMywxMzY1NDU0NDM5LDEzMD
-UyMzM1ODMsLTEwNjUwMjY2MTQsLTEyMzEzODYxMTldfQ==
+eyJoaXN0b3J5IjpbLTExMzM5NjkzMTMsLTIwNTExMDI2OCwtMj
+A1MTEwMjY4LDE5MjMyODA3NjYsNDEwNTYwNjIsLTk0NjAzNDcx
+NCwtMjg5NjQwMzQ5LC0xMTIxNzA4MTMsMTM2NTQ1NDQzOSwxMz
+A1MjMzNTgzLC0xMDY1MDI2NjE0LC0xMjMxMzg2MTE5XX0=
 -->
