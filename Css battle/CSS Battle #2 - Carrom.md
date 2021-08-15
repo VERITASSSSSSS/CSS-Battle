@@ -64,8 +64,15 @@
 </style>
 ```
 # 3. Position: Fixed
+*What is Position Fixed?*
+`position`specifies the type of positioning method used for an element
+-   `static`
+-   `relative`
+-   `fixed`
+-   `absolute`
+-   `sticky`
 
-```http
+```html
 <div id="a"></div>
 <div id="b"></div>
 <div id="c"></div>
@@ -86,5 +93,5 @@ https://www.tablesgenerator.com/markdown_tables
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTEyMzEyMjcsMTA1OTY2NDYxN119
+eyJoaXN0b3J5IjpbLTI4NTg3MDM4LDEwNTk2NjQ2MTddfQ==
 -->
