@@ -1,14 +1,15 @@
 # 1. Slow and Stupid
 
-*What is Inline Blocks?*
-**`display: inline-block` allows to set a width and height on the element**
+*What is `:before`?*
+The `::before` and `::after` pseudo-elements in CSS allows you to insert content onto a page without it needing to be in the HTML.
 
+[:after / :before](https://css-tricks.com/almanac/selectors/a/after-and-before/)
+```html
 <div id="c"></div> <!--Right piece-->
 <div id="d"></div> <!--Left piece-->
 <div id="b"></div> <!--Small circle-->
 <div id="a"></div> <!--Big circle-->
 
-```html
 <style>
   body{margin:0;  
     display: inline-block; 
@@ -47,5 +48,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMzcxMzY1Nl19
+eyJoaXN0b3J5IjpbLTE1MDk3NDA4NDRdfQ==
 -->
