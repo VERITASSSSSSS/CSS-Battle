@@ -71,6 +71,7 @@
 -   `fixed`
 -   `absolute`
 -   `sticky`
+
 | Name                | Idea     |  Picture |                                                  
 |---------------------|---------------------------------------------------------------------------------------------------|---------|
 | position: static;   | positioned according to the normal flow of the page                                               |         |
