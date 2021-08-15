@@ -1,7 +1,7 @@
 # 1. Absolute Position
 
-*What is `:before`?*
-The `::before` and `::after` pseudo-elements in CSS allows you to insert content onto a page without it needing to be in the HTML.
+*What is `absolute: position`?*
+
 ```css
 <div id="a"></div>
 <div id="b"></div>
@@ -151,7 +151,8 @@ box-shadow: [horizontal offset] [vertical offset]
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEwNTYwNjIsLTk0NjAzNDcxNCwtMjg5Nj
-QwMzQ5LC0xMTIxNzA4MTMsMTM2NTQ1NDQzOSwxMzA1MjMzNTgz
-LC0xMDY1MDI2NjE0LC0xMjMxMzg2MTE5XX0=
+eyJoaXN0b3J5IjpbMTkyMzI4MDc2Niw0MTA1NjA2MiwtOTQ2MD
+M0NzE0LC0yODk2NDAzNDksLTExMjE3MDgxMywxMzY1NDU0NDM5
+LDEzMDUyMzM1ODMsLTEwNjUwMjY2MTQsLTEyMzEzODYxMTldfQ
+==
 -->
