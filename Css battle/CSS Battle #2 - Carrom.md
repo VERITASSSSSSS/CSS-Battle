@@ -71,14 +71,13 @@
 -   `fixed`
 -   `absolute`
 -   `sticky`
-|Name|Idea| Picture |
-|--|--|--|
-| position:static; | Positioned according to page  |  |
-| position: relative; | positioned relative to its normal position. |  |
-| position: fixed;  |  |  |
-| position: absolute;  |  |  |
-| position: sticky;  |  |  |
-
+| Name                | Idea                                                                                              | Picture |
+|---------------------|---------------------------------------------------------------------------------------------------|---------|
+| position: static;   | positioned according to the normal flow of the page                                               |         |
+| position: relative  | is positioned relative to its normal position.                                                    |         |
+| position: fixed;    | positioned relative to the viewport, always stays in the same place even if the page is scrolled. |         |
+| position: absolute; | positioned relative to the nearest positioned ancestor                                            |         |
+| position: sticky;   | positioned relative until a given offset position is met in the viewport                          |         |
 
 
 ```html
@@ -102,5 +101,6 @@ https://www.tablesgenerator.com/markdown_tables
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgxNzU4MTU3LDEwNTk2NjQ2MTddfQ==
+eyJoaXN0b3J5IjpbNjg5NDI3ODcxLDg4MTc1ODE1NywxMDU5Nj
+Y0NjE3XX0=
 -->
