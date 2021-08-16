@@ -18,8 +18,37 @@
 </style>
 ```
 
+# 2. Z-index
+
+```css
+<div id="o">
+  <div id="a"></div>
+  <div id="b"></div>
+  <div id="c"></div>
+</div>
+<style>
+  *{margin:0; background:#0B2429;}
+  #o{margin: 30px 80px; width: 250px; height: 240px;}
+  #o div{width: 120px; height:120px; position: absolute;}
+  
+  #a{margin: 0px 120px;
+    z-index:1; 
+    background: #F3AC3C;
+    border-radius: 60px;}
+  
+  #b{z-index: 2;
+     margin: 60;
+     background: #998235;
+     border-radius: 60px 0px 60px 60px;}
+  
+  #c{z-index: 3;
+     margin: 120 1;
+     background: #F3AC3C;
+     border-radius: 60px 0px 60px 60px;}
+ </style>
+```
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTQ4OTA2NjRdfQ==
+eyJoaXN0b3J5IjpbMTAyNzQ4ODcyNSwtMTc5NDg5MDY2NF19
 -->
