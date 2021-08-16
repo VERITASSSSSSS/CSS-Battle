@@ -19,6 +19,8 @@
 ```
 
 # 2. Z-index
+*What is z-index ?*
+**`z-index: 1;` specifies the stack order of an element.
 
 ```css
 <div id="o">
@@ -28,8 +30,12 @@
 </div>
 <style>
   *{margin:0; background:#0B2429;}
-  #o{margin: 30px 80px; width: 250px; height: 240px;}
-  #o div{width: 120px; height:120px; position: absolute;}
+  
+  #o{margin: 30px 80px; 
+	 width: 250px; height: 240px;}
+	 
+  #o div{width: 120px; height:120px; 
+		 position: absolute;}
   
   #a{margin: 0px 120px;
     z-index:1; 
@@ -50,5 +56,6 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNzQ4ODcyNSwtMTc5NDg5MDY2NF19
+eyJoaXN0b3J5IjpbLTE2ODM3OTc4NTgsLTE3OTQ4OTA2NjRdfQ
+==
 -->
